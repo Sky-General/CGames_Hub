@@ -1,0 +1,11 @@
+name: Hub
+version: BETA
+description: None needed
+author: [Sky_General109]
+main: net.creativegames.hub.Main
+commands:
+  preload:
+    aliases: [prl]
+  spawn:
+  gamemode:
+    aliases: [gm]
